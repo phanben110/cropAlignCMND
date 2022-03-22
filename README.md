@@ -2,17 +2,17 @@
 
 ### 1.1. Original image
 <p align="center">
-  <img width="800" height="350" src="https://github.com/phanben110/cropAlignCMND/blob/master/images/cmnd.png">
+  <img width="904" height="570" src="https://github.com/phanben110/cropAlignCMND/blob/master/images/cmnd.png">
 </p>
 
 ### 1.2. Corner Detection and Alignment
 <p align="center">
-  <img width="800" height="350" src="https://github.com/phanben110/cropAlignCMND/blob/master/results/cmnd.jpg">
+  <img width="500" height="300" src="https://github.com/phanben110/cropAlignCMND/blob/master/results/cmnd.jpg">
 </p>
 
 ### 1.3. Corner Detection and Alignment Headmap
 <p align="center">
-  <img width="800" height="350" src="https://github.com/phanben110/cropAlignCMND/blob/master/results/headmap.png">
+  <img width="500" height="300" src="https://github.com/phanben110/cropAlignCMND/blob/master/results/headmap.png">
 </p>
 
 
