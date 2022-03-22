@@ -27,3 +27,8 @@ pip install -r requirement.txt
 ```
 python cropCMND.py
 ```
+Or 
+
+```
+python main.py
+```
