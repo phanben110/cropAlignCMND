@@ -1,0 +1,11 @@
+torch
+pillow
+tensorflow==2.2.0
+matplotlib
+torchvision
+PyYAML
+uvicorn
+opencv-python
+numpy
+starlette
+google
