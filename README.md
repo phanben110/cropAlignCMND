@@ -1,29 +1,20 @@
-# Extract-information-from-identity-card
-Tutorial: [Recognize Identity Card Tutorial](https://viblo.asia/p/trich-xuat-thong-tin-tu-chung-minh-thu-bJzKmaRwK9N)
-
 ## 1. Pipeline
 
-### 1.1. Corner Detection and Alignment
+### 1.1. Original image
 <p align="center">
-  <img width="800" height="350" src="https://user-images.githubusercontent.com/48142689/92223664-fd60b780-eeca-11ea-8e7e-76f93f4ed888.png">
+  <img width="800" height="350" src="https://github.com/phanben110/cropAlignCMND/blob/master/images/cmnd.png">
 </p>
 
-### 1.2. Text Detection
+### 1.2. Corner Detection and Alignment
 <p align="center">
-  <img width="800" height="350" src="https://user-images.githubusercontent.com/48142689/92224160-a0193600-eecb-11ea-9243-82d02d86812a.png">
+  <img width="800" height="350" src="https://github.com/phanben110/cropAlignCMND/blob/master/results/cmnd.jpg">
 </p>
 
-### 1.3. Recognize image text and final results
-**Final Result**
-```
-{
-  "id": "38138424",
-  "name": "LÊ KIỀU DIỄM",
-  "birth": "1989",
-  "add": "Tân Hưng Tây Phú Tân Cà Mau",
-  "home": "Khóm 8 Phường 8 TP Cà Mau Cà Mau"
-}
-```
+### 1.3. Corner Detection and Alignment Headmap
+<p align="center">
+  <img width="800" height="350" src="https://github.com/phanben110/cropAlignCMND/blob/master/results/headmap.png">
+</p>
+
 
 ## 2. How to run project 
 
@@ -36,11 +27,3 @@ pip install -r requirement.txt
 ```
 python cropCMND.py
 ```
-
-
-
-
-
-# cropAlignCMND
-# cropAlignCMND
-# cropAlignCMND
